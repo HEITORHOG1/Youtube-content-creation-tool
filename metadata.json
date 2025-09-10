@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Creation Tool",
+  "description": "An AI-powered tool that guides users through a 5-step workflow to generate titles, stories, image descriptions, images, and thumbnails for YouTube videos from a simple prompt.",
+  "requestFramePermissions": []
+}
